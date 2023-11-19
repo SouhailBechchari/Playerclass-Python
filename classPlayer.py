@@ -1,8 +1,19 @@
 class Player:
+    
     def __init__(self,name,age,rank):
         self.name = name
         self.age = age
         self.rank = rank
+        
+    def passe():
+        pass
+        
+    def shoot():
+        pass
+    
+    
+    def jump():
+        pass
         
 Player1 = Player('Souhail','18',1 )
 Player2 = Player('Cheb Larbi','34',6 )
